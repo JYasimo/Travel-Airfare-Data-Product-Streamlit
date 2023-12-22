@@ -37,9 +37,9 @@ We are committed to ethical service use and have robust security protocols to pr
 For technical issues or questions, reach out to our support team at: nathan.timothy.collins@gmail.com
 
 ## Authors
-- Nathan Collins
-- Augustin Ferrari
 - Yasaman Mohammadi
+- Augustin Ferrari
+- Nathan Collins
 - Divgun Singh
 
 ## License
